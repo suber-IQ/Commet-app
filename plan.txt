@@ -1,0 +1,22 @@
+⭐ npm project create
+
+⭐ install express and moment
+
+⭐ Create public folder
+
+⭐ Setup express server server.js
+
+⭐ do fontend part html and css
+
+⭐ Post comment logic, append to dom, install socket.io, emit from client
+
+⭐ Listen and broadcast event from server
+
+⭐ Listen for incoming events  on client
+
+⭐ Append comments animation
+
+⭐ Typing.. Animation
+
+⭐sync with db: connect to Mongo atlas , install mongoose create model
+
