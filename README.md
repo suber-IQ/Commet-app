@@ -1,4 +1,5 @@
 # realtime-comments-app
 realtime_Comments
 
-with use nodejs server
+with use nodejs backend
+
